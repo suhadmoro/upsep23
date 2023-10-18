@@ -3,10 +3,10 @@
     {
       "interval_inters": "1",
 	"interval_native":"2",
-      "openads_admob":"ca-app-pub-3940256099942544/3419835294x",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712x",
-      "admob_nativ": "ca-app-pub-3940256099942544/2247696110x",
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111x"
+      "openads_admob":"ca-app-pub-3459782106934381/3518658789",
+      "admob_inter": "ca-app-pub-3459782106934381/8719014573",
+      "admob_nativ": "ca-app-pub-3459782106934381/4831740452",
+      "admob_banner": "ca-app-pub-3459782106934381/8770985466"
     }
   ]
 }
